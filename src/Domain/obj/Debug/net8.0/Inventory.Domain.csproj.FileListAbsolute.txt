@@ -1,0 +1,11 @@
+D:\project\ASP\invetory-asset\src\Domain\bin\Debug\net8.0\Inventory.Domain.deps.json
+D:\project\ASP\invetory-asset\src\Domain\bin\Debug\net8.0\Inventory.Domain.dll
+D:\project\ASP\invetory-asset\src\Domain\bin\Debug\net8.0\Inventory.Domain.pdb
+D:\project\ASP\invetory-asset\src\Domain\obj\Debug\net8.0\Inventory.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\ASP\invetory-asset\src\Domain\obj\Debug\net8.0\Inventory.Domain.AssemblyInfoInputs.cache
+D:\project\ASP\invetory-asset\src\Domain\obj\Debug\net8.0\Inventory.Domain.AssemblyInfo.cs
+D:\project\ASP\invetory-asset\src\Domain\obj\Debug\net8.0\Inventory.Domain.csproj.CoreCompileInputs.cache
+D:\project\ASP\invetory-asset\src\Domain\obj\Debug\net8.0\Inventory.Domain.dll
+D:\project\ASP\invetory-asset\src\Domain\obj\Debug\net8.0\refint\Inventory.Domain.dll
+D:\project\ASP\invetory-asset\src\Domain\obj\Debug\net8.0\Inventory.Domain.pdb
+D:\project\ASP\invetory-asset\src\Domain\obj\Debug\net8.0\ref\Inventory.Domain.dll

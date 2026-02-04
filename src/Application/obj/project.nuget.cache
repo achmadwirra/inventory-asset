@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7rUU+R7lJ2o=",
+  "success": true,
+  "projectFilePath": "D:\\project\\ASP\\invetory-asset\\src\\Application\\Inventory.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WIR\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

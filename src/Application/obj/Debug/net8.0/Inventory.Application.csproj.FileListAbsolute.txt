@@ -1,0 +1,15 @@
+D:\project\ASP\invetory-asset\src\Application\bin\Debug\net8.0\Inventory.Application.deps.json
+D:\project\ASP\invetory-asset\src\Application\bin\Debug\net8.0\Inventory.Application.dll
+D:\project\ASP\invetory-asset\src\Application\bin\Debug\net8.0\Inventory.Application.pdb
+D:\project\ASP\invetory-asset\src\Application\bin\Debug\net8.0\Inventory.Domain.dll
+D:\project\ASP\invetory-asset\src\Application\bin\Debug\net8.0\Inventory.Domain.pdb
+D:\project\ASP\invetory-asset\src\Application\obj\Debug\net8.0\Inventory.Application.csproj.AssemblyReference.cache
+D:\project\ASP\invetory-asset\src\Application\obj\Debug\net8.0\Inventory.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\ASP\invetory-asset\src\Application\obj\Debug\net8.0\Inventory.Application.AssemblyInfoInputs.cache
+D:\project\ASP\invetory-asset\src\Application\obj\Debug\net8.0\Inventory.Application.AssemblyInfo.cs
+D:\project\ASP\invetory-asset\src\Application\obj\Debug\net8.0\Inventory.Application.csproj.CoreCompileInputs.cache
+D:\project\ASP\invetory-asset\src\Application\obj\Debug\net8.0\Inventor.1DAC6D85.Up2Date
+D:\project\ASP\invetory-asset\src\Application\obj\Debug\net8.0\Inventory.Application.dll
+D:\project\ASP\invetory-asset\src\Application\obj\Debug\net8.0\refint\Inventory.Application.dll
+D:\project\ASP\invetory-asset\src\Application\obj\Debug\net8.0\Inventory.Application.pdb
+D:\project\ASP\invetory-asset\src\Application\obj\Debug\net8.0\ref\Inventory.Application.dll
