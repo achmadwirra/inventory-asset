@@ -1,5 +1,8 @@
 # IT Asset Inventory Management System
 
+<img width="1273" height="779" alt="image" src="https://github.com/user-attachments/assets/0b3bab30-06cd-4163-98ab-0988ce9d78e8" />
+
+
 Inventory Management System untuk pengelolaan aset IT perusahaan.
 
 ## 🔧 Tech Stack
